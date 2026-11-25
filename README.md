@@ -1,45 +1,43 @@
-# app-dev
-My first repository
+# My Favorite Song: Cause You Have to by LANY
 
-# My Favorite Series: Stranger Things
-
-> "Friends don't lie." — Eleven
+> A dreamy, emotional track about love that is hard to let go of.
 
 ## About
-**Stranger Things** is a sci-fi horror series set in the 1980s in the small town of *Hawkins, Indiana*. It was created by the ~~Johnson Brothers~~ **Duffer Brothers**.
+**"Cause You Have to"** is a song by **LANY**, an American *indie pop* band from Los Angeles. It's from their self-titled debut album.
+
+## About the Band
+The band's members are:
+- Paul Klein (vocals)
+- Les Priest (keyboards)
+- Jake Goss (drums)
 
 ## Why I Like It
-1. Great mix of mystery and nostalgia
-2. Memorable characters
-3. Awesome soundtrack
-
-## Main Characters
-- Eleven
-- Mike Wheeler
-- Dustin Henderson
-  - Loves his pet and his cap
-- Will Byers
+1. The soft synth sound is relaxing
+2. The vocals are full of emotion
+3. It's easy to relate to
+   - Great for late-night listening
+   - Perfect for a rainy day
 
 ## Quick Facts
 | Detail | Info |
 |--------|------|
-| Genre | Sci-fi, Horror |
-| Platform | Netflix |
-| First Aired | 2016 |
+| Artist | LANY |
+| Genre | Indie pop, Synth-pop |
+| Mood | ~~Happy~~ **Bittersweet** |
 
-## Useful Code
-Run this in your head to enjoy the show: `watch --binge`
+## How I Listen
+Open Spotify and search `LANY Cause You Have to`.
 
 ```
-Season 1 -> Season 2 -> Season 3 -> ...
+Headphones on -> Press play -> Repeat
 ```
 
 ---
 
 ## Links
-Watch the trailer on [YouTube](https://www.youtube.com).
+Listen on [Spotify](https://open.spotify.com) or [YouTube](https://www.youtube.com).
 
-![Show poster](https://example.com/poster.jpg)
+![LANY](https://example.com/lany.jpg)
 
-- [x] Watched Season 1
-- [ ] Finish the latest season
+- [x] Added to my playlist
+- [ ] Watch LANY live someday
